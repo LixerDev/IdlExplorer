@@ -3,6 +3,7 @@
 Feed it any Solana/Anchor IDL — from a local file or fetched live from mainnet — and it auto-generates a fully typed **TypeScript SDK**, an async **Python client**, and **interactive HTML documentation** with code examples for every instruction.
 
 **Built by LixerDev**
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
