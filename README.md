@@ -195,3 +195,7 @@ src/
 | `{ option: T }` | `T \| null` | `Optional[T]` |
 | `{ vec: T }` | `T[]` | `List[T]` |
 | `{ defined: T }` | `T` | `T` |
+
+# 🔍 Coin
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/37137aaf-5fb9-42ac-9619-e0bb8a67d013" />
